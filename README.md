@@ -19,7 +19,7 @@ The dataset includes several medical predictor variables and one target variable
 - Glucose
 - BloodPressure
 - SkinThickness
-- DPF
+- DPF (Diabetes Pedigree Function)
 - Outcome
       
 The goal is to build a machine learning model that can accurately predict whether a patient has diabetes based on these medical indicators.
